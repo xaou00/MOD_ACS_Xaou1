@@ -1,0 +1,5 @@
+<MainList><List>
+	<Data Kind="Builds" Type="Xaou อาคารม็อด" Label="อาคารพิเศษ" Unlock="0"  CMDType="Build" Name="SoulColor_KongTiao"/>
+	<Data Kind="Builds" Type="Xaou อาคารม็อด" Label="ปรับพื้นดิน" Unlock="0"  CMDType="Build" Name="SoulColor_TuDi"/>
+	
+</List></MainList>

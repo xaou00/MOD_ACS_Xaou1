@@ -1,0 +1,12 @@
+<ModifierDefs>
+  <List>
+    <Modifier Name="Dan_BrokenNeck76" Type="Normal">
+      <DisplayName>ทะลวงขั้นทันที</DisplayName>
+      <Desc>ช่วยให้ NPC ผ่านคอขวดที่ระบบเกมรองรับ</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>1</Duration>
+      <Display>0</Display>
+      <LuaClassName>modifier_brokenneck</LuaClassName>
+    </Modifier>
+  </List>
+</ModifierDefs>

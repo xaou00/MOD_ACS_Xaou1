@@ -1,0 +1,57 @@
+<ThingDefs><List>
+<ThingDef Type="Building" Name="SoulColor_KongTiao" Parent="OrnamentBase">
+<TexPath>res\Sprs\buildingnew\building_smallxianglu02</TexPath>
+<TexScale>0.8</TexScale>
+<ThingName>เตาปรับอุณหภูมิ</ThingName>
+<Desc>กระถางธูปธรรมดาที่ฝังด้วยเตาปรับอุณหภูมิ</Desc>
+<ClassName>KongTiao_Building</ClassName>
+<Tags>
+<Tag Name="XiangLu_FSZW" Level="1"/>
+</Tags>
+<ColliderKind>ThrowOver</ColliderKind>
+<ShadowSize>
+<x>0.7</x>
+<y>0.7</y>
+</ShadowSize>
+<Collider>
+<!--(0Empty 1Base) 2EmptyCenter 4EmptyWorkspace-->
+<Data>
+[3],
+</Data>
+<OffsetGroup>
+<li><x>0</x><y>0.3</y></li>
+<li><x>0</x><y>0.3</y></li>
+<li><x>0</x><y>0.3</y></li>
+<li><x>0</x><y>0.3</y></li>
+</OffsetGroup>
+</Collider>
+<Flammability>
+<Flammability>0</Flammability>
+</Flammability>
+<Building>
+<Orientation>F,R</Orientation>
+<BeMade>
+<WorkToMake>100</WorkToMake>
+<Quality>0</Quality>
+<StuffCategories>
+<Stuff name = "MetalBlock"/>
+<Stuff name = "WoodBlock"/>
+<Stuff name = "RockBlock"/>
+</StuffCategories>
+<CostStuffCount>6</CostStuffCount>
+</BeMade>
+<SnowRenderData>
+<x>2.3</x>
+<y>3.5</y>
+<z>1</z>
+</SnowRenderData>
+</Building>
+<Heat>
+<Value>0</Value>
+<Radius>5</Radius>
+<RoomValue>0</RoomValue>
+<Failing>1</Failing>
+<FailRadius>1</FailRadius>
+</Heat>
+</ThingDef>
+</List></ThingDefs>
