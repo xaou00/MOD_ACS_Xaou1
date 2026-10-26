@@ -1,0 +1,22 @@
+<ThingDefs><List>
+  <ThingDef Type="Building" Name="Xaou_QiTransferArray" Parent="OrnamentBase">
+    <TexPath>res\Sprs\buildingnew\building_fazuo01</TexPath>
+    <TexScale>1</TexScale>
+    <ThingName>ค่ายกลถ่ายพลังวิญญาณ</ThingName>
+    <Desc>ใช้เก็บพลังปราณจากศิษย์และถ่ายกลับให้ตัวละครที่เลือก</Desc>
+    <ClassName>Xaou_QiArray_Building</ClassName>
+    <ColliderKind>ThrowOver</ColliderKind>
+    <Building>
+      <Orientation>F,R</Orientation>
+      <BeMade>
+        <WorkToMake>150</WorkToMake><Quality>0</Quality>
+        <StuffCategories><Stuff name="MetalBlock"/><Stuff name="WoodBlock"/><Stuff name="RockBlock"/></StuffCategories>
+        <CostStuffCount>12</CostStuffCount>
+      </BeMade>
+    </Building>
+    <Ling>
+      <AddionLing>0</AddionLing><AddionRadius>1</AddionRadius><AddionFailing>0</AddionFailing><AddionFailRadius>0</AddionFailRadius>
+      <Attenuation>0</Attenuation><Absorption>0</Absorption><Accommodate>1000000</Accommodate>
+    </Ling>
+  </ThingDef>
+</List></ThingDefs>

@@ -1,0 +1,25 @@
+﻿{
+  "LastRelease": null,
+  "LoadInfo": false,
+  "Name": "Xaou_ModCenter_Standalone",
+  "DisplayName": "ACS_Mod",
+  "GameVersion": 1.268,
+  "Version": "7.0",
+  "Desc": "ศูนย์รวมเครื่องมือ Mod Xaou ",
+  "Author": "xaou",
+  "UIPackage": "UI/XaoCtr",
+  "ID": "851742062",
+  "Flag": 0,
+  "Tags": [
+    "NPC",
+    "Function",
+    "Usability",
+    "Mobile"
+  ],
+  "IncreasedDesc": "🌀 ACS Mod หลัก v7.0\r\n\r\n✨ รายการอัปเดต\r\n\r\n- เพิ่มและปรับปรุงสถานที่ในระบบวาร์ป\r\n- แก้ไขปัญหาแจกไอเทมภายในเกมไม่ได้",
+  "IsInsideCreat": true,
+  "Previews": [],
+  "Dependencies": null,
+  "Url": "https://github.com/xaouxaou009-debug/mod_xaou01",
+  "VersionValue": 700.0
+}

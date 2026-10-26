@@ -1,0 +1,28 @@
+<ModifierDefs>
+  <List>
+    <Modifier Name="Modifier_YinYangShuangYu76" Type="Normal">
+      <DisplayName>ชุบชีวิต NPC</DisplayName>
+      <Desc>เลือก NPC บนแผนที่เพื่อฟื้นฟูร่างกายและชุบชีวิต</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>1</Duration>
+      <Display>0</Display>
+      <LuaClassName>modifier_yinyangshuangyu</LuaClassName>
+    </Modifier>
+    <Modifier Name="Dan_BaiYanLang76" Type="Normal">
+      <DisplayName>ขโมยของ NPC</DisplayName>
+      <Desc>เลือกสมบัติลับบนแผนที่เพื่อผูกให้กับ NPC เป้าหมาย</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>1</Duration>
+      <Display>0</Display>
+      <LuaClassName>modifier_baiyanlang</LuaClassName>
+    </Modifier>
+    <Modifier Name="Dan_ZhongLi76" Type="Normal">
+      <DisplayName>ยืดเวลาทัณฑ์สวรรค์</DisplayName>
+      <Desc>เลื่อนคูลดาวน์ทัณฑ์สวรรค์ของสายเทพออกไป 100 วัน</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>1</Duration>
+      <Display>0</Display>
+      <LuaClassName>modifier_zhongli</LuaClassName>
+    </Modifier>
+  </List>
+</ModifierDefs>

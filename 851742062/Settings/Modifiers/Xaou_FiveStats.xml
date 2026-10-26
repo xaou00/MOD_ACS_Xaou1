@@ -1,0 +1,27 @@
+<ModifierDefs>
+  <List>
+    <Modifier Name="QuanBu76" Type="Normal">
+      <DisplayName>เพิ่มค่าสถานะทั้ง 5</DisplayName>
+      <Desc>เพิ่มค่าพื้นฐานทั้ง 5 และทักษะของ NPC อย่างถาวร</Desc>
+      <MaxStack>0</MaxStack>
+      <Duration>-1</Duration>
+      <Display>0</Display>
+      <BaseFive>10,10,10,10,10</BaseFive>
+      <LuaClassName>modifier_fivebasedan</LuaClassName>
+      <Skills>
+        <li Name="SocialContact" Level="20"/>
+        <li Name="Fight" Level="20"/>
+        <li Name="Farming" Level="20"/>
+        <li Name="Medicine" Level="20"/>
+        <li Name="Cooking" Level="20"/>
+        <li Name="Building" Level="20"/>
+        <li Name="Manual" Level="20"/>
+        <li Name="Mining" Level="20"/>
+        <li Name="Art" Level="20"/>
+        <li Name="Qi" Level="20"/>
+        <li Name="DanQi" Level="20"/>
+        <li Name="DouFa" Level="20"/>
+      </Skills>
+    </Modifier>
+  </List>
+</ModifierDefs>
